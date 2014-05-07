@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Alexander-Wodnioks-iMac.local" id="0" name="TechnicalComponentControllerTests" package="eat" tests="1" time="1.566" timestamp="2014-05-07T14:55:41">
+      <properties />
+
+      <testcase classname="eat.TechnicalComponentControllerTests" name="testSomething" time="1.543" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
